@@ -1,4 +1,8 @@
 ## Title: Qraclib
+## Description
+
+Qraclib is an innovative project positioned at the convergence of quantum computing and classical cryptographic algorithms. It would provide a set of quantum oracles to facilitate the evaluation of classical algorithm with qc. This project addresses the challenge of implementing classical algorithms in quantum computing environments, where classical functions may be complex and difficult to directly encode into quantum circuits.
+
 ## Project deliverable
 #### 1. Implementation of Classical Cryptographic Algorithms as Quantum Oracle
 
@@ -16,13 +20,9 @@ Qraclib will include comprehensive documentation and guidelines for users intere
 
 Qraclib will come with detailed documentation providing insights into the quantum oracle implementations, usage instructions, and considerations for quantum simulation and hardware deployment. The documentation will be user-friendly and accessible to developers of varying expertise levels.
 
-### 5. Package Distribution
+#### 5. Package Distribution
 
 Qraclib will be packaged for easy installation and integration into various quantum computing environments. Users will be able to install the library effortlessly using standard package management tools, such as pip.
-## Describe your project
-## Description
-
-Qraclib is an innovative project positioned at the convergence of quantum computing and classical cryptographic algorithms. It would provide a set of quantum oracles to facilitate the evaluation of classical algorithm with qc. This project addresses the challenge of implementing classical algorithms in quantum computing environments, where classical functions may be complex and difficult to directly encode into quantum circuits.
 
 ## Needs
 
