@@ -2,21 +2,30 @@
 
 layout: col-sidebar
 title: OWASP Qraclib
-tags: example-tag
+tags: Quantum
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: Code
+pitch: A library of Quantum Oracles for cryptographic algorithms
 
 ---
+### Description
+Qraclib is an innovative project positioned at the convergence of quantum computing and classical cryptographic algorithms. It would provide a set of quantum oracles to facilitate the evaluation of classical algorithm with qc. This project addresses the challenge of implementing classical algorithms in quantum computing environments, where classical functions may be complex and difficult to directly encode into quantum circuits.
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+### Needs and Motivation
+In the realm of quantum computing, certain algorithms rely on oracles to evaluate classical functions efficiently. Qraclib responds to the need for a specialised library that simplifies the integration of classical cryptographic functions into quantum algorithms. This is crucial for researchers and practitioners working on quantum algorithms that require classical function evaluations.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+- **Quantum Algorithm Development:** Qraclib is motivated by the desire to facilitate the development of quantum algorithms that leverage classical cryptographic functions. By providing a set of quantum oracles, the project aims to lower the barrier for researchers exploring quantum solutions for classical algorithmic challenges.
+    
+- **Cross-Disciplinary Collaboration:** The project is driven by the motivation to encourage collaboration between quantum computing and classical cryptography communities. By creating a bridge between these domains, Qraclib fosters interdisciplinary research and knowledge sharing.
+    
+- **Enhancing Quantum Algorithm Libraries:** Qraclib contributes to the broader ecosystem of quantum algorithm libraries by offering a specialized tool for working with classical cryptographic functions. This enhances the capabilities of quantum algorithm developers and researchers.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+### Impact
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+The impact of Qraclib extends to:
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, documentation, or other
+- **Enabling Quantum Algorithm Design:** Qraclib empowers researchers to design and implement quantum algorithms that interact with classical cryptographic functions.
+    
+- **Facilitating Research in Quantum Cryptography:** The project contributes to the development of quantum cryptography by providing a practical tool for incorporating classical cryptographic elements into quantum protocols.
+    
+- **Cross-Pollination of Ideas:** Qraclib serves as a catalyst for cross-disciplinary collaboration, bringing together experts in quantum computing and classical cryptography. The exchange of ideas and methodologies can lead to breakthroughs in both fields.
