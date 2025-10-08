@@ -1,0 +1,22 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Rupak Biswas
+    email: rupak.biswas@owasp.org
+    github: RupakBiswas-2304
+level: 2
+license:
+  - MIT
+name: OWASP Qraclib
+pitch: A library of Quantum Oracles for cryptographic algorithms
+repositories:
+  - name: www-project-qraclib
+    url: https://github.com/OWASP/www-project-qraclib
+    description: OWASP Foundation Web Repository
+tags:
+  - Quantum
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-qraclib
